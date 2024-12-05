@@ -3,29 +3,32 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Home
+    url: https://aspyn.io
+  - name: UI
+    url: https://aptive.aspyn.io
+  - name: Auth
+    url: https://account.aspyn.io
+  - name: Admin
+    url: https://api.aptive.aspyn.io/admin/v1/healthz
+  - name: CRM
+    url: https://api.aptive.aspyn.io/crm/v1/docs/api/
+  - name: Pay
+    url: https://api.aptive.aspyn.io/pay/v1/docs/api/
+  - name: Field Service
+    url: https://api.aptive.aspyn.io/field-service/v1/docs/api/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.aspyn.io
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://avatars.githubusercontent.com/u/180470179?s=200&v=4
+  name: Aspyn Status
+  introTitle: "**Aspyn Status Page** - Monitoring Your Services in Real-Time"
+  introMessage: >
+    Welcome to the Aspyn Status page. Here, you can find real-time updates and historical uptime information for our services. For more information, visit our [GitHub repository](https://github.com/upptime/upptime).
+  navbar:
   navbar:
     - title: Status
       href: /
