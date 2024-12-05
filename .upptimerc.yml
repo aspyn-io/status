@@ -11,11 +11,11 @@ sites:
   - name: Admin
     url: https://api.aptive.aspyn.io/admin/v1/healthz
   - name: CRM
-    url: https://api.aptive.aspyn.io/crm/v1/api/docs
+    url: https://api.aptive.aspyn.io/crm/v1/docs/api
   - name: Pay
-    url: https://api.aptive.aspyn.io/pay/v1/api/docs
+    url: https://api.aptive.aspyn.io/pay/v1/docs/api
   - name: Field Service
-    url: https://api.aptive.aspyn.io/field-service/v1/api/docs
+    url: https://api.aptive.aspyn.io/field-service/v1/docs/api
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
