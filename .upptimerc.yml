@@ -28,7 +28,6 @@ status-website:
   introMessage: >
     Welcome to the Aspyn Status page. Here, you can find real-time updates and historical uptime information for our services. For more information, visit our [GitHub repository](https://github.com/upptime/upptime).
   navbar:
-  navbar:
     - title: Status
       href: /
     - title: GitHub
