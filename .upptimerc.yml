@@ -2,18 +2,37 @@ owner: aspyn-io
 repo: status
 
 sites:
-  - name: UI
+  -
+    name: UI
     url: https://aptive.aspyn.io
-  - name: Auth
+    assignees:
+      - syntaqx
+  -
+    name: Auth
     url: https://account.aspyn.io
-  - name: Admin
+    assignees:
+      - bblaker
+  -
+    name: Admin
     url: https://api.aptive.aspyn.io/admin/v1/healthz
-  - name: CRM
+    __dangerous__body_down_if_text_missing: '"status":"OK"'
+    assignees:
+      - syntaqx
+  -
+    name: CRM
     url: https://api.aptive.aspyn.io/crm/v1/docs/api
-  - name: Pay
+    assignees:
+      - john-peterson-g17
+  -
+    name: Pay
     url: https://api.aptive.aspyn.io/pay/v1/docs/api
-  - name: Field Service
+    assignees:
+      - john-peterson-g17
+  -
+    name: Field Service
     url: https://api.aptive.aspyn.io/field-service/v1/docs/api
+    assignees:
+      - jonmccutchan90
 
 status-website:
   cname: status.aspyn.io
