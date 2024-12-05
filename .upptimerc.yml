@@ -2,8 +2,6 @@ owner: aspyn-io
 repo: status
 
 sites:
-  - name: Home
-    url: https://aspyn.io
   - name: UI
     url: https://aptive.aspyn.io
   - name: Auth
