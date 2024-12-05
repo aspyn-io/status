@@ -22,7 +22,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://avatars.githubusercontent.com/u/180470179?s=200&v=4
   name: Aspyn Status
-  introTitle: "**Aspyn Status Page** - Monitoring Your Services in Real-Time"
+  introTitle: "**Aspyn Status Page**"
   introMessage: >
     Welcome to the Aspyn Status page. Here, you can find real-time updates and historical uptime information for our services. For more information, visit our [GitHub repository](https://github.com/upptime/upptime).
   navbar:
