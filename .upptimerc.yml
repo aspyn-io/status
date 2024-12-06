@@ -30,7 +30,8 @@ sites:
       - john-peterson-g17
   -
     name: Field Service
-    url: https://api.aptive.aspyn.io/field-service/v1/docs/api
+    url: https://api.aptive.aspyn.io/field-service/v1/healthz
+    __dangerous__body_down_if_text_missing: '"status":"OK"'
     assignees:
       - jonmccutchan90
 
