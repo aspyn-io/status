@@ -3,6 +3,11 @@ repo: status
 
 sites:
   -
+    name: Homepage
+    url: https://aspyn.io
+    assignees:
+      - syntaqx
+  -
     name: UI
     url: https://aptive.aspyn.io/healthz
     assignees:
