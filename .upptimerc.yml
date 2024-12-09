@@ -5,7 +5,6 @@ sites:
   -
     name: UI
     url: https://aptive.aspyn.io/healthz
-    __dangerous__body_down_if_text_missing: 'OK'
     assignees:
       - syntaqx
   -
