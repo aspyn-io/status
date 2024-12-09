@@ -38,8 +38,14 @@ sites:
     assignees:
       - john-peterson-g17
   -
-    name: Audit
+    name: Audit-API
     url: https://api.aptive.aspyn.io/audit/v1/healthz
+    __dangerous__body_down_if_text_missing: '"status":"OK"'
+    assignees:
+      - john-peterson-g17
+  -
+    name: Audit-Daemon
+    url: https://api.aptive.aspyn.io/audit/daemon/healthz
     __dangerous__body_down_if_text_missing: '"status":"OK"'
     assignees:
       - john-peterson-g17
