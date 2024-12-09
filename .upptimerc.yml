@@ -2,30 +2,37 @@ owner: aspyn-io
 repo: status
 
 sites:
-  - name: UI
-    url: https://aptive.aspyn.io
+  -
+    name: UI
+    url: https://aptive.aspyn.io/healthz
+    __dangerous__body_down_if_text_missing: 'OK'
     assignees:
       - syntaqx
-  - name: Auth
+  -
+    name: Auth
     url: https://account.aspyn.io
     assignees:
       - bblaker
-  - name: Admin
+  -
+    name: Admin
     url: https://api.aptive.aspyn.io/admin/v1/healthz
     __dangerous__body_down_if_text_missing: '"status":"OK"'
     assignees:
       - syntaqx
-  - name: CRM
+  -
+    name: CRM
     url: https://api.aptive.aspyn.io/crm/v1/healthz
     __dangerous__body_down_if_text_missing: '"status":"OK"'
     assignees:
       - john-peterson-g17
-  - name: Pay
+  -
+    name: Pay
     url: https://api.aptive.aspyn.io/pay/v1/healthz
     __dangerous__body_down_if_text_missing: '"status":"OK"'
     assignees:
       - john-peterson-g17
-  - name: Field Service
+  -
+    name: Field Service
     url: https://api.aptive.aspyn.io/field-service/v1/healthz
     __dangerous__body_down_if_text_missing: '"status":"OK"'
     assignees:
@@ -33,7 +40,6 @@ sites:
 
 status-website:
   cname: status.aspyn.io
-  # baseUrl: /your-repo-name
   logoUrl: https://avatars.githubusercontent.com/u/180470179?s=200&v=4
   name: Aspyn Status
   introTitle: "**Aspyn Status Page**"
@@ -46,5 +52,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
