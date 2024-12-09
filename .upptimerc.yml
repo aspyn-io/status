@@ -5,11 +5,13 @@ sites:
   -
     name: Homepage
     url: https://aspyn.io
+    icon: https://aptive.aspyn.io/icon.svg
     assignees:
       - syntaqx
   -
     name: UI
     url: https://aptive.aspyn.io/healthz
+    icon: https://aptive.aspyn.io/icon.svg
     assignees:
       - syntaqx
   -
