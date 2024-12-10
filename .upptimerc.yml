@@ -34,6 +34,7 @@ sites:
   -
     name: Pay
     url: https://api.aptive.aspyn.io/pay/v1/healthz
+    icon: https://api.aptive.aspyn.io/pay/v1/favicon-32x32.png
     __dangerous__body_down_if_text_missing: '"status":"OK"'
     assignees:
       - john-peterson-g17
