@@ -152,17 +152,19 @@
     "url": "https://api.aptive.aspyn.io/field-service/v1/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/api.aptive.aspyn.io.ico",
     "slug": "field-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 171,
-    "timeDay": 33,
-    "timeWeek": 171,
-    "timeMonth": 171,
-    "timeYear": 171,
-    "dailyMinutesDown": {}
+    "time": 166,
+    "timeDay": 24,
+    "timeWeek": 166,
+    "timeMonth": 166,
+    "timeYear": 166,
+    "dailyMinutesDown": {
+      "2024-12-12": 0
+    }
   }
 ]
