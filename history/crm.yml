@@ -1,7 +1,7 @@
 url: https://api.aptive.aspyn.io/crm/v1/healthz
 status: up
 code: 200
-responseTime: 53
-lastUpdated: 2024-12-14T23:03:56.057Z
+responseTime: 49
+lastUpdated: 2024-12-15T23:03:51.523Z
 startTime: 2024-12-05T22:06:15.057Z
 generator: Upptime <https://github.com/upptime/upptime>
