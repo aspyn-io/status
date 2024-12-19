@@ -56,6 +56,12 @@ sites:
     __dangerous__body_down_if_text_missing: '"status":"OK"'
     assignees:
       - jonmccutchan90
+  -
+    name: Events Service
+    url: https://api.aptive.aspyn.io/events/v1/healthz
+    __dangerous__body_down_if_text_missing: '"status":"OK"'
+    assignees:
+      - bblaker
 
 status-website:
   cname: status.aspyn.io
