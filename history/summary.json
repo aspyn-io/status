@@ -81,18 +81,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.aptive.aspyn.io.ico",
     "slug": "crm",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 400,
     "timeDay": 166,
     "timeWeek": 96,
     "timeMonth": 82,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2025-01-20": 7,
       "2025-01-14": 21
     }
   },
@@ -173,17 +172,19 @@
     "url": "https://api.aptive.aspyn.io/events/v1/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/api.aptive.aspyn.io.ico",
     "slug": "events-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 59,
-    "timeDay": 109,
-    "timeWeek": 64,
-    "timeMonth": 62,
+    "timeDay": 70,
+    "timeWeek": 61,
+    "timeMonth": 61,
     "timeYear": 59,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-20": 0
+    }
   }
 ]
