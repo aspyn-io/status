@@ -23,18 +23,17 @@
     "icon": "https://aptive.aspyn.io/favicon.ico",
     "slug": "ui",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 290,
     "timeDay": 298,
     "timeWeek": 312,
     "timeMonth": 292,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2025-01-24": 7,
       "2024-12-10": 1
     }
   },
@@ -62,18 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.aptive.aspyn.io.ico",
     "slug": "admin",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 269,
     "timeDay": 322,
     "timeWeek": 313,
     "timeMonth": 278,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2025-01-24": 7,
       "2024-12-10": 1
     }
   },
@@ -83,18 +81,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.aptive.aspyn.io.ico",
     "slug": "crm",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 359,
     "timeDay": 65,
     "timeWeek": 88,
     "timeMonth": 83,
     "timeYear": 359,
     "dailyMinutesDown": {
-      "2025-01-24": 7,
       "2025-01-14": 21
     }
   },
@@ -104,19 +101,17 @@
     "icon": "https://api.aptive.aspyn.io/pay/v1/favicon-32x32.png",
     "slug": "pay",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 116,
     "timeDay": 90,
     "timeWeek": 113,
     "timeMonth": 87,
     "timeYear": 116,
-    "dailyMinutesDown": {
-      "2025-01-24": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Audit (API)",
@@ -160,19 +155,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.aptive.aspyn.io.ico",
     "slug": "field-service",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 101,
     "timeDay": 63,
     "timeWeek": 76,
     "timeMonth": 65,
     "timeYear": 101,
-    "dailyMinutesDown": {
-      "2025-01-24": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Events Service",
@@ -180,18 +173,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.aptive.aspyn.io.ico",
     "slug": "events-service",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 64,
     "timeDay": 89,
     "timeWeek": 78,
     "timeMonth": 67,
     "timeYear": 64,
-    "dailyMinutesDown": {
-      "2025-01-24": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
