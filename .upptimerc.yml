@@ -2,8 +2,14 @@ owner: aspyn-io
 repo: status
 
 sites:
+  - name: Homepage
+    url: https://aspyn.io
+    icon: https://aptive.aspyn.io/favicon.ico
+    assignees:
+      - syntaqx
   - name: UI
-    url: https://aptive.aspyn.io
+    url: https://aptive.aspyn.io/healthz
+    icon: https://aptive.aspyn.io/favicon.ico
     assignees:
       - syntaqx
   - name: Auth
@@ -22,6 +28,17 @@ sites:
       - john-peterson-g17
   - name: Pay
     url: https://api.aptive.aspyn.io/pay/v1/healthz
+    icon: https://api.aptive.aspyn.io/pay/v1/favicon-32x32.png
+    __dangerous__body_down_if_text_missing: '"status":"OK"'
+    assignees:
+      - john-peterson-g17
+  - name: Audit (API)
+    url: https://api.aptive.aspyn.io/audit/v1/healthz
+    __dangerous__body_down_if_text_missing: '"status":"OK"'
+    assignees:
+      - john-peterson-g17
+  - name: Audit (Daemon)
+    url: https://api.aptive.aspyn.io/audit/daemon/healthz
     __dangerous__body_down_if_text_missing: '"status":"OK"'
     assignees:
       - john-peterson-g17
@@ -30,6 +47,11 @@ sites:
     __dangerous__body_down_if_text_missing: '"status":"OK"'
     assignees:
       - jonmccutchan90
+  - name: Events Service
+    url: https://api.aptive.aspyn.io/events/v1/healthz
+    __dangerous__body_down_if_text_missing: '"status":"OK"'
+    assignees:
+      - bblaker
   - name: Blog
     url: https://blog.aspyn.io
     assignees:
@@ -41,7 +63,6 @@ sites:
 
 status-website:
   cname: status.aspyn.io
-  # baseUrl: /your-repo-name
   logoUrl: https://avatars.githubusercontent.com/u/180470179?s=200&v=4
   name: Aspyn Status
   introTitle: "**Aspyn Status Page**"
