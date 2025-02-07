@@ -30,6 +30,14 @@ sites:
     __dangerous__body_down_if_text_missing: '"status":"OK"'
     assignees:
       - jonmccutchan90
+  - name: Blog
+    url: https://blog.aspyn.io
+    assignees:
+      - john-peterson-g17
+  - name: Portal
+    url: https://app.aspyn.io
+    assignees:
+      - john-peterson-g17
 
 status-website:
   cname: status.aspyn.io
