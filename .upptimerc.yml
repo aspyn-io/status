@@ -12,14 +12,15 @@ sites:
     icon: https://aptive.aspyn.io/favicon.ico
     assignees:
       - syntaqx
-  - name: Customer Portal
-    url: https://app.aspyn.io/healthz
-    assignees:
-      - syntaqx
-  - name: Mobile
-    url: https://mobile.aspyn.io/healthz
-    assignees:
-      - syntaqx
+  # Disabled because of GitHub Pages, these are 404s
+  # - name: Customer Portal
+  #   url: https://app.aspyn.io/healthz
+  #   assignees:
+  #     - syntaqx
+  # - name: Mobile
+  #   url: https://mobile.aspyn.io/healthz
+  #   assignees:
+  #     - syntaqx
   - name: Auth
     url: https://account.aspyn.io
     assignees:
