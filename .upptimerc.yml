@@ -52,6 +52,11 @@ sites:
     __dangerous__body_down_if_text_missing: '"status":"OK"'
     assignees:
       - bblaker
+  - name: Sales Service
+    url: https://api.aptive.aspyn.io/sales/v1/healthz
+    __dangerous__body_down_if_text_missing: '"status":"OK"'
+    assignees:
+      - syntaqx
   - name: Blog
     url: https://blog.aspyn.io
     assignees:
