@@ -41,6 +41,11 @@ sites:
     __dangerous__body_down_if_text_missing: '"status":"OK"'
     assignees:
       - john-peterson-g17
+  - name: Audit (API)
+    url: https://api.aptive.aspyn.io/audit/v1/healthz
+    __dangerous__body_down_if_text_missing: '"status":"OK"'
+    assignees:
+      - john-peterson-g17
   - name: Field Service
     url: https://api.aptive.aspyn.io/field-service/v1/healthz
     __dangerous__body_down_if_text_missing: '"status":"OK"'
