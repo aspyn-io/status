@@ -60,7 +60,7 @@ sites:
     url: https://blog.aspyn.io
     assignees:
       - john-peterson-g17
-  - name: Portal
+  - name: Customer Portal
     url: https://app.aspyn.io
     assignees:
       - john-peterson-g17
