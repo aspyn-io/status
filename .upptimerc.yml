@@ -41,27 +41,17 @@ sites:
     __dangerous__body_down_if_text_missing: '"status":"OK"'
     assignees:
       - john-peterson-g17
-  - name: Audit (API)
-    url: https://api.aptive.aspyn.io/audit/v1/healthz
-    __dangerous__body_down_if_text_missing: '"status":"OK"'
-    assignees:
-      - john-peterson-g17
-  - name: Audit (Daemon)
-    url: https://api.aptive.aspyn.io/audit/daemon/healthz
-    __dangerous__body_down_if_text_missing: '"status":"OK"'
-    assignees:
-      - john-peterson-g17
   - name: Field Service
     url: https://api.aptive.aspyn.io/field-service/v1/healthz
     __dangerous__body_down_if_text_missing: '"status":"OK"'
     assignees:
       - jonmccutchan90
-  - name: Events Service
+  - name: Events
     url: https://api.aptive.aspyn.io/events/v1/healthz
     __dangerous__body_down_if_text_missing: '"status":"OK"'
     assignees:
       - bblaker
-  - name: Sales Service
+  - name: Sales
     url: https://api.aptive.aspyn.io/sales/v1/healthz
     __dangerous__body_down_if_text_missing: '"status":"OK"'
     assignees:
