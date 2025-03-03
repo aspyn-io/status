@@ -47,10 +47,6 @@ sites:
     url: https://api.aptive.aspyn.io/field-service/v1/up
     assignees:
       - jonmccutchan90
-  - name: Events
-    url: https://api.aptive.aspyn.io/events/v1/up
-    assignees:
-      - bblaker
   - name: Sales
     url: https://api.aptive.aspyn.io/sales/v1/up
     assignees:
