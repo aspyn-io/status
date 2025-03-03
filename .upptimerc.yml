@@ -31,34 +31,28 @@ sites:
     assignees:
       - syntaqx
   - name: CRM
-    url: https://api.aptive.aspyn.io/crm/v1/healthz
-    __dangerous__body_down_if_text_missing: '"status":"OK"'
+    url: https://api.aptive.aspyn.io/crm/v1/up
     assignees:
       - john-peterson-g17
   - name: Pay
-    url: https://api.aptive.aspyn.io/pay/v1/healthz
+    url: https://api.aptive.aspyn.io/pay/v1/up
     icon: https://api.aptive.aspyn.io/pay/v1/favicon-32x32.png
-    __dangerous__body_down_if_text_missing: '"status":"OK"'
     assignees:
       - john-peterson-g17
   - name: Audit (API)
     url: https://api.aptive.aspyn.io/audit/v1/healthz
-    __dangerous__body_down_if_text_missing: '"status":"OK"'
     assignees:
       - john-peterson-g17
   - name: Field Service
-    url: https://api.aptive.aspyn.io/field-service/v1/healthz
-    __dangerous__body_down_if_text_missing: '"status":"OK"'
+    url: https://api.aptive.aspyn.io/field-service/v1/up
     assignees:
       - jonmccutchan90
   - name: Events
-    url: https://api.aptive.aspyn.io/events/v1/healthz
-    __dangerous__body_down_if_text_missing: '"status":"OK"'
+    url: https://api.aptive.aspyn.io/events/v1/up
     assignees:
       - bblaker
   - name: Sales
-    url: https://api.aptive.aspyn.io/sales/v1/healthz
-    __dangerous__body_down_if_text_missing: '"status":"OK"'
+    url: https://api.aptive.aspyn.io/sales/v1/up
     assignees:
       - syntaqx
   - name: Blog
