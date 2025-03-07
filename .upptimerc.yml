@@ -39,10 +39,6 @@ sites:
     icon: https://api.aptive.aspyn.io/pay/v1/favicon-32x32.png
     assignees:
       - john-peterson-g17
-  - name: Audit (API)
-    url: https://api.aptive.aspyn.io/audit/v1/healthz
-    assignees:
-      - john-peterson-g17
   - name: Field Service
     url: https://api.aptive.aspyn.io/field-service/v1/up
     assignees:
