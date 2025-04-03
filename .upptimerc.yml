@@ -63,6 +63,7 @@ sites:
 status-website:
   cname: status.aspyn.io
   logoUrl: https://avatars.githubusercontent.com/u/180470179?s=200&v=4
+  favicon: https://aptive.aspyn.io/favicon.ico
   name: Aspyn Status
   introTitle: "**Aspyn Status Page**"
   introMessage: >
