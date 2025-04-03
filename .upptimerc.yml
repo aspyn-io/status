@@ -30,6 +30,10 @@ sites:
     __dangerous__body_down_if_text_missing: '"status":"OK"'
     assignees:
       - syntaqx
+  - name: Communications
+    url: https://api.aptive.aspyn.io/communications/v1/up
+    assignees:
+      - syntaqx
   - name: CRM
     url: https://api.aptive.aspyn.io/crm/v1/up
     assignees:
@@ -70,5 +74,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+user-agent: aspyn-io
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
