@@ -1,7 +1,7 @@
 url: https://api.aptive.aspyn.io/communications/v1/up
-status: up
-code: 200
-responseTime: 86
-lastUpdated: 2025-04-14T23:04:05.143Z
+status: down
+code: 503
+responseTime: 47
+lastUpdated: 2025-04-15T08:02:21.750Z
 startTime: 2025-04-03T05:06:26.498Z
 generator: Upptime <https://github.com/upptime/upptime>
