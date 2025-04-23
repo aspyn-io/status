@@ -61,11 +61,11 @@ sites:
       - john-peterson-g17
   - name: VROOM
     url: https://api.aptive.aspyn.io/vroom/v1/health
-    assigneess:
+    assignees:
       - IHaveASegway
   - name: ORS (OpenRouteService)
     url: https://api.aptive.aspyn.io/ors/v2/health
-    assigneess:
+    assignees:
       - IHaveASegway
 
 status-website:
