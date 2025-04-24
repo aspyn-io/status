@@ -1,7 +1,7 @@
 url: https://api.aptive.aspyn.io/ors/v2/health
 status: down
-code: 404
-responseTime: 23
-lastUpdated: 2025-04-24T22:49:57.104Z
+code: 503
+responseTime: 96
+lastUpdated: 2025-04-24T23:04:37.916Z
 startTime: 2025-04-23T21:31:37.049Z
 generator: Upptime <https://github.com/upptime/upptime>
