@@ -1,7 +1,7 @@
 url: https://api.aptive.aspyn.io/sales/v1/up
-status: down
-code: 503
-responseTime: 53
-lastUpdated: 2025-06-09T23:04:23.843Z
+status: up
+code: 200
+responseTime: 135
+lastUpdated: 2025-06-09T23:05:40.681Z
 startTime: 2025-02-18T21:04:32.462Z
 generator: Upptime <https://github.com/upptime/upptime>
