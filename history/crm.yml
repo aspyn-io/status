@@ -1,7 +1,7 @@
 url: https://api.aptive.aspyn.io/crm/v1/up
-status: down
-code: 503
-responseTime: 23
-lastUpdated: 2025-06-10T13:43:16.334Z
+status: up
+code: 200
+responseTime: 363
+lastUpdated: 2025-06-10T13:52:42.485Z
 startTime: 2024-12-05T22:06:15.057Z
 generator: Upptime <https://github.com/upptime/upptime>
