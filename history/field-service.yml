@@ -1,7 +1,7 @@
 url: https://api.aptive.aspyn.io/field-service/v1/up
-status: down
-code: 503
-responseTime: 21
-lastUpdated: 2025-06-11T11:50:27.094Z
+status: up
+code: 200
+responseTime: 68
+lastUpdated: 2025-06-11T11:57:35.956Z
 startTime: 2024-12-05T22:06:16.665Z
 generator: Upptime <https://github.com/upptime/upptime>
