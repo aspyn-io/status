@@ -1,7 +1,7 @@
 url: https://api.aptive.aspyn.io/ors/v2/health
-status: down
-code: 503
-responseTime: 75
-lastUpdated: 2025-06-12T20:33:47.929Z
+status: up
+code: 200
+responseTime: 194
+lastUpdated: 2025-06-12T20:43:28.263Z
 startTime: 2025-04-23T21:31:37.049Z
 generator: Upptime <https://github.com/upptime/upptime>
