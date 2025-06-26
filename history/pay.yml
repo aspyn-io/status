@@ -1,7 +1,7 @@
 url: https://api.aptive.aspyn.io/pay/v1/up
-status: down
-code: 503
-responseTime: 40
-lastUpdated: 2025-06-26T14:23:00.425Z
+status: up
+code: 200
+responseTime: 173
+lastUpdated: 2025-06-26T14:35:11.282Z
 startTime: 2024-12-05T22:06:16.005Z
 generator: Upptime <https://github.com/upptime/upptime>
