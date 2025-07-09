@@ -1,7 +1,7 @@
 url: https://api.aptive.aspyn.io/vroom/v1/health
-status: down
-code: 503
-responseTime: 20
-lastUpdated: 2025-07-09T17:25:03.377Z
+status: up
+code: 200
+responseTime: 55
+lastUpdated: 2025-07-09T17:36:40.056Z
 startTime: 2025-04-23T21:31:36.670Z
 generator: Upptime <https://github.com/upptime/upptime>
