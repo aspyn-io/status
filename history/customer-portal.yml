@@ -1,7 +1,7 @@
-url: https://customer.aptive.aspyn.io/healthz
-status: down
-code: 404
-responseTime: 162
-lastUpdated: 2025-07-24T19:22:00.173Z
+url: https://app.aspyn.io
+status: up
+code: 200
+responseTime: 172
+lastUpdated: 2025-07-24T19:22:05.353Z
 startTime: 2025-02-18T21:04:33.224Z
 generator: Upptime <https://github.com/upptime/upptime>
