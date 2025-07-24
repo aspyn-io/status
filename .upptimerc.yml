@@ -12,10 +12,6 @@ sites:
     icon: https://aptive.aspyn.io/favicon.ico
     assignees:
       - syntaqx
-  - name: Customer Portal
-    url: https://customer.aptive.aspyn.io/healthz
-    assignees:
-      - syntaqx
   # - name: Mobile
   #   url: https://mobile.aspyn.io/healthz
   #   assignees:
@@ -53,11 +49,11 @@ sites:
   - name: Blog
     url: https://blog.aspyn.io
     assignees:
-      - john-peterson-g17
+      - syntaqx
   - name: Customer Portal
-    url: https://app.aspyn.io
+    url: https://customer.aptive.aspyn.io
     assignees:
-      - john-peterson-g17
+      - syntaqx
   - name: VROOM
     url: https://api.aptive.aspyn.io/vroom/v1/health
     assignees:
