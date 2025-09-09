@@ -2,11 +2,6 @@ owner: aspyn-io
 repo: status
 
 sites:
-  - name: Homepage
-    url: https://aspyn.io
-    icon: https://aptive.aspyn.io/favicon.ico
-    assignees:
-      - syntaqx
   - name: UI
     url: https://aptive.aspyn.io/healthz
     icon: https://aptive.aspyn.io/favicon.ico
