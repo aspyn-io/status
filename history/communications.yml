@@ -1,7 +1,7 @@
-url: https://api.aptive.aspyn.io/communications/v1/up
-status: down
-code: 404
-responseTime: 46
-lastUpdated: 2025-10-20T23:04:42.698Z
+url: https://api.aptive.aspyn.io/communications/v1/healthz
+status: up
+code: 200
+responseTime: 175
+lastUpdated: 2025-10-21T06:31:07.450Z
 startTime: 2025-04-03T05:06:26.498Z
 generator: Upptime <https://github.com/upptime/upptime>
