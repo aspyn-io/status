@@ -25,24 +25,24 @@ sites:
     assignees:
       - syntaqx
   - name: Communications
-    url: https://api.aptive.aspyn.io/communications/v1/up
+    url: https://api.aptive.aspyn.io/communications/v1/healthz
     assignees:
       - syntaqx
   - name: CRM
-    url: https://api.aptive.aspyn.io/crm/v1/up
+    url: https://api.aptive.aspyn.io/crm/v1/healthz
     assignees:
       - john-peterson-g17
   - name: Pay
-    url: https://api.aptive.aspyn.io/pay/v1/up
+    url: https://api.aptive.aspyn.io/pay/v1/healthz
     icon: https://api.aptive.aspyn.io/pay/v1/favicon-32x32.png
     assignees:
       - john-peterson-g17
   - name: Field Service
-    url: https://api.aptive.aspyn.io/field-service/v1/up
+    url: https://api.aptive.aspyn.io/field-service/v1/healthz
     assignees:
       - jonmccutchan90
   - name: Sales
-    url: https://api.aptive.aspyn.io/sales/v1/up
+    url: https://api.aptive.aspyn.io/sales/v1/healthz
     assignees:
       - syntaqx
   - name: Blog
