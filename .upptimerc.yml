@@ -7,36 +7,44 @@ sites:
     icon: https://aptive.aspyn.io/favicon.ico
     assignees:
       - syntaqx
+      - ben-meeker
   - name: Customer Portal
     url: https://customer.aptive.aspyn.io
     assignees:
       - syntaqx
+      - ben-meeker
   - name: Recruit Portal
     url: https://recruit.aptive.aspyn.io
     assignees:
       - syntaqx
+      - ben-meeker
   - name: Auth
     url: https://account.aspyn.io
     assignees:
       - syntaqx
+      - ben-meeker
   - name: Admin
     url: https://api.aptive.aspyn.io/admin/v1/healthz
     __dangerous__body_down_if_text_missing: '"status":"OK"'
     assignees:
       - syntaqx
+      - ben-meeker
   - name: Communications
     url: https://api.aptive.aspyn.io/communications/v1/healthz
     assignees:
       - syntaqx
+      - ben-meeker
   - name: CRM
     url: https://api.aptive.aspyn.io/crm/v1/healthz
     assignees:
       - syntaqx
+      - ben-meeker
   - name: Pay
     url: https://api.aptive.aspyn.io/pay/v1/healthz
     icon: https://api.aptive.aspyn.io/pay/v1/favicon-32x32.png
     assignees:
       - syntaqx
+      - ben-meeker
   - name: Field Service
     url: https://api.aptive.aspyn.io/field-service/v1/healthz
     assignees:
@@ -49,14 +57,17 @@ sites:
     url: https://blog.aspyn.io
     assignees:
       - syntaqx
+      - ben-meeker
   - name: VROOM
     url: https://api.aptive.aspyn.io/vroom/v1/health
     assignees:
       - syntaqx
+      - ben-meeker
   - name: ORS (OpenRouteService)
     url: https://api.aptive.aspyn.io/ors/v2/health
     assignees:
       - syntaqx
+      - ben-meeker
 
 status-website:
   cname: status.aspyn.io
