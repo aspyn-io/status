@@ -18,7 +18,7 @@ sites:
   - name: Auth
     url: https://account.aspyn.io
     assignees:
-      - bblaker
+      - syntaqx
   - name: Admin
     url: https://api.aptive.aspyn.io/admin/v1/healthz
     __dangerous__body_down_if_text_missing: '"status":"OK"'
@@ -31,16 +31,16 @@ sites:
   - name: CRM
     url: https://api.aptive.aspyn.io/crm/v1/healthz
     assignees:
-      - john-peterson-g17
+      - syntaqx
   - name: Pay
     url: https://api.aptive.aspyn.io/pay/v1/healthz
     icon: https://api.aptive.aspyn.io/pay/v1/favicon-32x32.png
     assignees:
-      - john-peterson-g17
+      - syntaqx
   - name: Field Service
     url: https://api.aptive.aspyn.io/field-service/v1/healthz
     assignees:
-      - jonmccutchan90
+      - syntaqx
   - name: Sales
     url: https://api.aptive.aspyn.io/sales/v1/healthz
     assignees:
@@ -52,11 +52,11 @@ sites:
   - name: VROOM
     url: https://api.aptive.aspyn.io/vroom/v1/health
     assignees:
-      - IHaveASegway
+      - syntaqx
   - name: ORS (OpenRouteService)
     url: https://api.aptive.aspyn.io/ors/v2/health
     assignees:
-      - IHaveASegway
+      - syntaqx
 
 status-website:
   cname: status.aspyn.io
