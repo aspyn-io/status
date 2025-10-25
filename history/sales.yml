@@ -1,7 +1,7 @@
 url: https://api.aptive.aspyn.io/sales/v1/healthz
-status: down
-code: 503
-responseTime: 87
-lastUpdated: 2025-10-25T05:31:13.457Z
+status: up
+code: 200
+responseTime: 133
+lastUpdated: 2025-10-25T05:54:13.723Z
 startTime: 2025-02-18T21:04:32.462Z
 generator: Upptime <https://github.com/upptime/upptime>
