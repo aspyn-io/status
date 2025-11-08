@@ -1,7 +1,7 @@
 url: https://api.aptive.aspyn.io/field-service/v1/healthz
-status: up
-code: 200
-responseTime: 49
-lastUpdated: 2025-11-07T23:04:33.333Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-11-08T14:42:19.103Z
 startTime: 2024-12-05T22:06:16.665Z
 generator: Upptime <https://github.com/upptime/upptime>
