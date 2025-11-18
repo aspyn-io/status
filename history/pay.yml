@@ -1,7 +1,7 @@
 url: https://api.aptive.aspyn.io/pay/v1/healthz
-status: up
-code: 200
-responseTime: 149
-lastUpdated: 2025-11-17T23:04:40.794Z
+status: down
+code: 500
+responseTime: 8
+lastUpdated: 2025-11-18T11:46:20.604Z
 startTime: 2024-12-05T22:06:16.005Z
 generator: Upptime <https://github.com/upptime/upptime>
