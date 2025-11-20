@@ -1,7 +1,7 @@
 url: https://customer.aptive.aspyn.io
-status: up
-code: 200
-responseTime: 313
-lastUpdated: 2025-11-19T23:04:33.070Z
+status: down
+code: 503
+responseTime: 417
+lastUpdated: 2025-11-20T01:03:18.487Z
 startTime: 2025-02-18T21:04:33.224Z
 generator: Upptime <https://github.com/upptime/upptime>
