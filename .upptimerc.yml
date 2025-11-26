@@ -19,7 +19,8 @@ sites:
       - syntaqx
       - ben-meeker
   - name: Auth
-    url: https://account.aspyn.io
+    url: https://account.aspyn.io/api/status
+    __dangerous__body_down_if_text_missing: '"status":"Ok"'
     assignees:
       - syntaqx
       - ben-meeker
