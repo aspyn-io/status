@@ -29,6 +29,27 @@ sites:
     assignees:
       - syntaqx
       - ben-meeker
+  - name: Events
+    url: https://api.aptive.aspyn.io/events/v1/healthz
+    __dangerous__body_down_if_text_missing: '"status":"OK"'
+    assignees:
+      - syntaqx
+      - ben-meeker
+      - john-peterson-g17
+  - name: Events
+    url: https://api.aptive.aspyn.io/events/v1/healthz
+    __dangerous__body_down_if_text_missing: '"status":"OK"'
+    assignees:
+      - syntaqx
+      - ben-meeker
+      - john-peterson-g17
+  - name: Automations
+    url: https://api.aptive.aspyn.io/automations/v1/healthz
+    __dangerous__body_down_if_text_missing: '"status":"healthy"'
+    assignees:
+      - syntaqx
+      - ben-meeker
+      - john-peterson-g17
   - name: Communications
     url: https://api.aptive.aspyn.io/communications/v1/healthz
     assignees:
