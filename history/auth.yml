@@ -1,7 +1,7 @@
 url: https://account.aspyn.io/api/status
-status: down
-code: 453
-responseTime: 580
-lastUpdated: 2025-11-28T17:39:06.885Z
+status: up
+code: 200
+responseTime: 325
+lastUpdated: 2025-11-28T18:13:32.277Z
 startTime: 2024-12-05T22:06:13.944Z
 generator: Upptime <https://github.com/upptime/upptime>
