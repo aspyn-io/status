@@ -54,6 +54,7 @@ sites:
       - john-peterson-g17
   - name: Communications
     url: https://api.aptive.aspyn.io/communications/v1/healthz
+    __dangerous__body_down_if_text_missing: '"status":"OK"'
     assignees:
       - syntaqx
       - ben-meeker
