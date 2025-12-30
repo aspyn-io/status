@@ -9,7 +9,8 @@ sites:
       - syntaqx
       - ben-meeker
   - name: Customer Portal
-    url: https://customer.aptive.aspyn.io
+    url: https://customer.aptive.aspyn.io/healthz
+    __dangerous__body_down_if_text_missing: '"status":"Ok"'
     assignees:
       - syntaqx
       - ben-meeker
