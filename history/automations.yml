@@ -1,7 +1,7 @@
 url: https://api.aptive.aspyn.io/automations/v1/healthz
 status: up
 code: 200
-responseTime: 81
-lastUpdated: 2026-01-16T23:04:55.458Z
+responseTime: 62
+lastUpdated: 2026-01-17T23:04:44.777Z
 startTime: 2025-11-26T21:57:54.686Z
 generator: Upptime <https://github.com/upptime/upptime>
